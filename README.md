@@ -1,5 +1,11 @@
-# clone project on Desktop,open the cli to run command "npm install"
+# custome_loader
 
-# run command "npm build" to generate dist file
+This is Demo to study loader of webpack
 
-# open dist/index.html to see the result
+## Getting Started
+
+- clone project on Desktop,open the cli to run command "npm install"
+
+- run command "npm build" to generate dist file
+
+- open dist/index.html to see the result
